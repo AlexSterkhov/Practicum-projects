@@ -16,3 +16,10 @@
 - Завершен 
 
 #### Вывод: 
+Самая лучшая метрика получилась у RandomForest с параметрами подобранными RandomisedSearchCV: 
+
+sMAPE для rougher.output.recovery 9.233356210234561
+
+sMAPE для final.output.recovery 8.759407120754023
+
+Итоговая sMAPE на случайном лесе - 8.877894393124159
